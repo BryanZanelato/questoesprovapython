@@ -1,0 +1,4 @@
+"Não, pois existe a possibilidade da pessoa por o X maior que o 0, exemplo: se ele por um valor válido de alpha 0,1 porém por o x=1 nada no código vai barrar ele e vai dar um erro no código"
+"alpha: 0,1 e x: 0,1 = 00,1", "alpha: 0,1 e x: 1 = Error"
+
+ERREI, NÃO CONSEGUI ENTENDER DIREITO A QUESTÃO E TENTEI FAZER ALGO QUE NA MINHA CABEÇA "TALVEZ" IA DAR CERTO.
